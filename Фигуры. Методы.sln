@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Фигуры. Методы", "Фигуры. Методы\Фигуры. Методы.vcxproj", "{E554A4E2-16A6-42ED-AD8B-F944C68066B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E554A4E2-16A6-42ED-AD8B-F944C68066B9}.Debug|x64.ActiveCfg = Debug|x64
+		{E554A4E2-16A6-42ED-AD8B-F944C68066B9}.Debug|x64.Build.0 = Debug|x64
+		{E554A4E2-16A6-42ED-AD8B-F944C68066B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{E554A4E2-16A6-42ED-AD8B-F944C68066B9}.Debug|x86.Build.0 = Debug|Win32
+		{E554A4E2-16A6-42ED-AD8B-F944C68066B9}.Release|x64.ActiveCfg = Release|x64
+		{E554A4E2-16A6-42ED-AD8B-F944C68066B9}.Release|x64.Build.0 = Release|x64
+		{E554A4E2-16A6-42ED-AD8B-F944C68066B9}.Release|x86.ActiveCfg = Release|Win32
+		{E554A4E2-16A6-42ED-AD8B-F944C68066B9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D3C576-1B14-46AF-BA66-3680C3D98EC4}
+	EndGlobalSection
+EndGlobal
